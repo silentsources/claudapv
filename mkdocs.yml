@@ -1,0 +1,15 @@
+site_name: Wave wet en regelgeving
+
+theme:
+  name: material
+  langueage: en
+ 
+# Copyright
+copyright: Copyright © 2023 - 2024 Wave Testserver
+
+nav:
+  - Home: index.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Keybinds: keybinds.md
+  - Voertuigenlijst: voertuigenlijst.md
+  - Wapens & Items: weapon-items.md
