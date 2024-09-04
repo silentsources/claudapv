@@ -1,4 +1,4 @@
-site_name: Wave wet en regelgeving
+site_name: Fusion wet en regelgeving
 
 theme:
   name: material
@@ -10,6 +10,16 @@ copyright: Copyright © 2023 - 2024 Wave Testserver
 nav:
   - Home: index.md
   - Algemene Plaatselijke Verordening: apv.md
-  - Keybinds: keybinds.md
-  - Voertuigenlijst: voertuigenlijst.md
-  - Wapens & Items: weapon-items.md
+  - Wetboek: wetboek.md
+  - Risicogebieden: risico-gebieden.md
+  - Douanegebieden: douanegebieden.md
+  - NOTAM: notam.md
+  - Belastingen: belastingen.md
+  - Regelement voor de rechtspraak: rechtspraak.md
+  - Streamen op Tedeapolis: streamen.md
+  - Kosten:
+    - Advocatuur: kosten/advocatuur.md
+    - Ambulance: kosten/ambulance.md
+    - ANWB: kosten/anwb.md
+    - Politie: kosten/politie.md
+    - Vliegschool: kosten/vliegschool.md
