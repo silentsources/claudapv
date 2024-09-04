@@ -15,8 +15,7 @@ Fusion heeft verschillende discord servers die zijn goed gekeurd door het stadsb
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Fusion RolePlay| Main discord server van Fusion | [Invite](https://discord.gg/tedeapolis) |
-|Fusion Support| Support discord server van Fusion | [Invite](https://discord.gg/uQ9jGA93yC) |
-|Fusion Cardealer| Cardealer discord server van Fusion | [Invite](https://discord.gg/UcCG2kn) |
-|Fusion Flightschool| Vliegschool discord server van Fusion | [Invite](https://discord.gg/JMrvTrZqcz) |
-|Ministerie van Justitie en Veiligheid| Ministerie van Justitie en Veiligheid van Fusion | [Invite](https://discord.gg/KPTt4ce5nw) |
+|Fusion RolePlay| Main discord server van Fusion | [Invite](https://discord.gg/fsroleplay) |
+|Fusion Support| Support discord server van Fusion | [Invite](https://discord.gg/KsSYaCTUqD) |
+|Fusion Cardealer| Cardealer discord server van Fusion | [Invite](https://discord.gg/CrpGRhnvQt) |
+|Fusion Hulpdiensten| Hulpdiensten discord server van Fusion | [Invite](https://discord.gg/mSbCQjQ4QC) 
