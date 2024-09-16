@@ -1,10 +1,10 @@
 # Project information
-site_name: Fusion wet en regelgeving
-site_description: 'Wet en regelgeving van Fusion Roleplay'
-site_author: 'Fusion'
+site_name: Azure wet en regelgeving
+site_description: 'Wet en regelgeving van Azure Roleplay'
+site_author: 'Azure'
 
 # Copyright
-copyright: Copyright &copy; 2023 - 2024 Fusion
+copyright: Copyright &copy; 2023 - 2024 Azure
 
 # Congiguration
 theme:
@@ -22,8 +22,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to system preference
-  favicon: img/logoFusion.png
-  logo: img/logoFusion.webp
+  favicon: img/logoAzure.png
+  logo: img/logoAzure.webp
   custom_dir: docs/overrides
   language: nl
   features:
@@ -54,7 +54,7 @@ nav:
   - NOTAM: notam.md
   - Belastingen: belastingen.md
   - Regelement voor de rechtspraak: rechtspraak.md
-  - Streamen op Fusion: streamen.md
+  - Streamen op Azure: streamen.md
   - Kosten:
     - Advocatuur: kosten/advocatuur.md
     - Ambulance: kosten/ambulance.md
