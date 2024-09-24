@@ -1,10 +1,10 @@
 # Project information
-site_name: Azure wet en regelgeving
-site_description: 'Wet en regelgeving van Azure Roleplay'
-site_author: 'Azure'
+site_name: Arnhem wet en regelgeving
+site_description: 'Wet en regelgeving van Arnhem Roleplay'
+site_author: 'Arnhem'
 
 # Copyright
-copyright: Copyright &copy; 2023 - 2024 Azure
+copyright: Copyright &copy; 2024 - 2025 Arnhem
 
 # Congiguration
 theme:
@@ -22,8 +22,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to system preference
-  favicon: img/logoAzure.png
-  logo: img/logoAzure.webp
+  favicon: img/logoArnhem.png
+  logo: img/logoArnhem.webp
   custom_dir: docs/overrides
   language: nl
   features:
@@ -54,7 +54,7 @@ nav:
   - NOTAM: notam.md
   - Belastingen: belastingen.md
   - Regelement voor de rechtspraak: rechtspraak.md
-  - Streamen op Azure: streamen.md
+  - Streamen op Arnhem: streamen.md
   - Kosten:
     - Advocatuur: kosten/advocatuur.md
     - Ambulance: kosten/ambulance.md
