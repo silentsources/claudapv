@@ -15,7 +15,7 @@ Arnhem heeft verschillende discord servers die zijn goed gekeurd door het stadsb
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Arnhem RolePlay| Main discord server van Arnhem | [Invite](https://discord.gg/fsroleplay) |
-|Arnhem Support| Support discord server van Arnhem | [Invite](https://discord.gg/KsSYaCTUqD) |
-|Arnhem Cardealer| Cardealer discord server van Arnhem | [Invite](https://discord.gg/CrpGRhnvQt) |
-|Arnhem Hulpdiensten| Hulpdiensten discord server van Arnhem | [Invite](https://discord.gg/mSbCQjQ4QC) 
+|Arnhem RolePlay| Main discord server van Arnhem | [Invite](https://discord.gg/arnhemroleplay) |
+|Arnhem Support| Support discord server van Arnhem | [Invite](https://discord.gg/FdApmPZc) |
+|Arnhem Cardealer| Cardealer discord server van Arnhem | [Invite](https://discord.gg/a2BfNjWD) |
+|Arnhem Hulpdiensten| Hulpdiensten discord server van Arnhem | [Invite](https://discord.gg/g9eugJ3P) |
