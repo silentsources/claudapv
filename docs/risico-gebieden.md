@@ -1,8 +1,8 @@
-# Risicogebieden binnen Arnhem
+# Risicogebieden binnen Adventure
 
-Arnhem kent enkele risicogebieden. In een risicogebied mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
+Adventure kent enkele risicogebieden. In een risicogebied mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
 
-De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Arnhem, aanvullende risicogebieden aan te wijzen. Hiervoor gelden dezelfde regels als de normale risicogebieden.
+De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Adventure, aanvullende risicogebieden aan te wijzen. Hiervoor gelden dezelfde regels als de normale risicogebieden.
 
 ## Kaartweergave
 
@@ -100,7 +100,7 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Arnhem, aa
 
 - 5152
 
-### Arnhem Casino
+### Adventure Casino
 
 - 6047
 - 6048

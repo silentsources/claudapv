@@ -11,9 +11,9 @@ De kosten voor een zorg verzekering zijn als volgt op gebouwd:
 * Afsluit kosten: €1500,-
 * Premie per dag : €340,-
 
-## EHBO
+## ADBO
 
-Je kan een EHBO cursus volgen bij de ambulance dienst om zo mee te helpen om levens te reden deze kan je aanvragen bij de ambulance dienst.
+Je kan een ADBO cursus volgen bij de ambulance dienst om zo mee te helpen om levens te reden deze kan je aanvragen bij de ambulance dienst.
 
 De kosten hier voor zijn per cursus: €1500,-
 
