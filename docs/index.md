@@ -15,7 +15,7 @@ Nijmegen heeft verschillende discord servers die zijn goed gekeurd door het stad
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Nijmegen RolePlay| Main discord server van Nijmegen | [Invite](https://discord.gg/727cmxM9Rq) |
-|Nijmegen Support| Support discord server van Nijmegen | [Invite](https://discord.gg/CmwjkERFfN) |
-|Nijmegen Onderwereld| Onderwereld discord server van Nijmegen | [Invite](https://discord.gg/88fmTgtg2U) |
-|Nijmegen Overheid| Overheid discord server van Nijmegen | [Invite](https://discord.gg/Yzd3NWTD) |
+|Nijmegen RolePlay| Main discord server van Nijmegen | [Invite](https://discord.gg/wnEm8HXfrU) |
+|Nijmegen Support| Support discord server van Nijmegen | [Invite](https://discord.gg/qCX8q2dGQU) |
+|Nijmegen Onderwereld| Onderwereld discord server van Nijmegen | [Invite](https://discord.gg/r7sfMVBHbK) |
+|Nijmegen Overheid| Overheid discord server van Nijmegen | [Invite](https://discord.gg/zmkh8nnrFj) |
