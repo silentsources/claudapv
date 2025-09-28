@@ -1,6 +1,6 @@
 # Project information
-site_name: Nijmegen wet en regelgeving
-site_description: 'Wet en regelgeving van Nijmegen Roleplay'
+site_name: Claud wet en regelgeving
+site_description: 'Wet en regelgeving van Claud Roleplay'
 site_author: 'SilentSources'
 
 # Copyright
@@ -22,8 +22,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to system preference
-  favicon: img/logoNijmegen.png
-  logo: img/logoNijmegen.webp
+  favicon: img/logoClaud.png
+  logo: img/logoClaud.webp
   custom_dir: docs/overrides
   language: nl
   features:
@@ -54,7 +54,7 @@ nav:
   - NOTAM: notam.md
   - Belastingen: belastingen.md
   - Regelement voor de rechtspraak: rechtspraak.md
-  - Streamen op Nijmegen: streamen.md
+  - Streamen op Claud: streamen.md
   - Kosten:
     - Advocatuur: kosten/advocatuur.md
     - Ambulance: kosten/ambulance.md
