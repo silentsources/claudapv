@@ -1,10 +1,16 @@
 # Project information
 site_name: Claud wet en regelgeving
+# site_url: 'https://wetboek.sunstonerp.nl/'
 site_description: 'Wet en regelgeving van Claud Roleplay'
-site_author: 'SilentSources'
+site_author: 'Wave'
 
 # Copyright
-copyright: Copyright &copy; 2024 - 2025 SilentSources
+copyright: Copyright &copy; 2025 - 2026 Claud
+
+# Repository
+repo_url: 'https://github.com/silentsources'
+repo_name: 'Wave/wet-en-regelgeving'
+edit_uri: 'edit/pre-release/docs/'
 
 # Congiguration
 theme:
@@ -39,6 +45,14 @@ theme:
       provider: google
       property: UA-167800475-3
       
+plugins:
+  - git-revision-date-localized:
+      type: timeago
+      time_zone: Europe/Amsterdam
+      locale: nl
+      fallback_to_build_date: false
+  - search:
+      lang: nl
 markdown_extensions:
   - admonition
   - attr_list
@@ -54,7 +68,7 @@ nav:
   - NOTAM: notam.md
   - Belastingen: belastingen.md
   - Regelement voor de rechtspraak: rechtspraak.md
-  - Streamen op Claud: streamen.md
+  - Streamen op Wave: streamen.md
   - Kosten:
     - Advocatuur: kosten/advocatuur.md
     - Ambulance: kosten/ambulance.md
