@@ -15,7 +15,7 @@ Claud heeft verschillende discord servers die zijn goed gekeurd door het stadsbe
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Claud RolePlay| Main discord server van Claud | [Invite](https://discord.gg/wnEm8HXfrU) |
-|Claud Support| Support discord server van Claud | [Invite](https://discord.gg/qCX8q2dGQU) |
-|Claud Onderwereld| Onderwereld discord server van Claud | [Invite](https://discord.gg/r7sfMVBHbK) |
-|Claud Overheid| Overheid discord server van Claud | [Invite](https://discord.gg/zmkh8nnrFj) |
+|Claud RolePlay| Main discord server van Claud | [Invite](https://discord.com/invite/claudrp) |
+|Claud Support| Support discord server van Claud | [Soon](https://discord.com/invite/claudrp) |
+|Claud Onderwereld| Onderwereld discord server van Claud | [Soon](https://discord.com/invite/claudrp) |
+|Claud Overheid| Overheid discord server van Claud | [Soon](https://discord.com/invite/claudrp) |
