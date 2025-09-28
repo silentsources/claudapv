@@ -2,7 +2,7 @@
 site_name: Claud wet en regelgeving
 # site_url: 'https://wetboek.sunstonerp.nl/'
 site_description: 'Wet en regelgeving van Claud Roleplay'
-site_author: 'Wave'
+site_author: 'Claud'
 
 # Copyright
 copyright: Copyright &copy; 2025 - 2026 Claud
@@ -68,7 +68,7 @@ nav:
   - NOTAM: notam.md
   - Belastingen: belastingen.md
   - Regelement voor de rechtspraak: rechtspraak.md
-  - Streamen op Wave: streamen.md
+  - Streamen op Claud: streamen.md
   - Kosten:
     - Advocatuur: kosten/advocatuur.md
     - Ambulance: kosten/ambulance.md
